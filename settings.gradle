@@ -1,5 +1,0 @@
-rootProject.name = 'werewolf'
-
-include 'core'
-include 'web'
-
